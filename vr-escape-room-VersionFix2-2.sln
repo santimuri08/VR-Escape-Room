@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.csproj", "{76991D49-48C7-26E7-BC62-78AE0B68C520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{8B3C7F96-413E-12CC-1882-25B3DFFF191B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_KeyDoorSystem", "CodeMonkey_KeyDoorSystem.csproj", "{5B30531B-2828-2940-A8C9-0DDCB5B0E1A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{E1349C20-FD60-1F19-2368-99AD99E872DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeMonkey_KeyDoorSystem_Editor", "CodeMonkey_KeyDoorSystem_Editor.csproj", "{49AA9F1A-950D-48CC-2B72-18EABDD5CC45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor", "Unity.XR.Interaction.Toolkit.Samples.StarterAssets.Editor.csproj", "{62116025-5D31-AA8A-C8D2-6DA62C0063DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76991D49-48C7-26E7-BC62-78AE0B68C520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76991D49-48C7-26E7-BC62-78AE0B68C520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76991D49-48C7-26E7-BC62-78AE0B68C520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76991D49-48C7-26E7-BC62-78AE0B68C520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B3C7F96-413E-12CC-1882-25B3DFFF191B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B3C7F96-413E-12CC-1882-25B3DFFF191B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B3C7F96-413E-12CC-1882-25B3DFFF191B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B3C7F96-413E-12CC-1882-25B3DFFF191B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B30531B-2828-2940-A8C9-0DDCB5B0E1A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B30531B-2828-2940-A8C9-0DDCB5B0E1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B30531B-2828-2940-A8C9-0DDCB5B0E1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B30531B-2828-2940-A8C9-0DDCB5B0E1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1349C20-FD60-1F19-2368-99AD99E872DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1349C20-FD60-1F19-2368-99AD99E872DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1349C20-FD60-1F19-2368-99AD99E872DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1349C20-FD60-1F19-2368-99AD99E872DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AA9F1A-950D-48CC-2B72-18EABDD5CC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AA9F1A-950D-48CC-2B72-18EABDD5CC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AA9F1A-950D-48CC-2B72-18EABDD5CC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AA9F1A-950D-48CC-2B72-18EABDD5CC45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62116025-5D31-AA8A-C8D2-6DA62C0063DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62116025-5D31-AA8A-C8D2-6DA62C0063DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62116025-5D31-AA8A-C8D2-6DA62C0063DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62116025-5D31-AA8A-C8D2-6DA62C0063DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
